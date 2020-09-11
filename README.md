@@ -5,4 +5,4 @@ The data for this assignment comes from a subset of The National Centers for Env
 
 I did this project as a part of the course: Applied Plotting, Charting & Data Representation in Python on Coursera.
 
-![Output](Output.png)
+![output](output.png)
