@@ -4,3 +4,5 @@ The highest and the lowest temperatures for each day of the year from 2005-2014 
 The data for this assignment comes from a subset of The National Centers for Environmental Information (NCEI) [Daily Global Historical Climatology Network](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt) (GHCN-Daily).
 
 I did this project as a part of the course: Applied Plotting, Charting & Data Representation in Python on Coursera.
+
+![Output](Output.png)
